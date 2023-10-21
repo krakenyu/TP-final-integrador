@@ -1,0 +1,42 @@
+[
+  {
+      "id": "12345-123123-123123-123123-12312",
+      "descripcion": "Calza",
+      "color": "negro",
+      "talle": "S",
+      "cantidad": 50,
+      "precio": 29.99
+  },
+  {
+      "id": "12323-34345-345345-3455-345345",
+      "descripcion": "Campera",
+      "color": "rojo",
+      "talle": "M",
+      "cantidad": 20,
+      "precio": 59.99
+  },
+  {
+      "id": "678678-57567-57567-567576-5765765",
+      "descripcion": "Remera",
+      "color": "blanco",
+      "talle": "L",
+      "cantidad": 35,
+      "precio": 19.99
+  },
+  {
+      "id": "fsdsfd-sdfsdf-rtyrty-rtyrty",
+      "descripcion": "Short",
+      "color": "azul",
+      "talle": "XL",
+      "cantidad": 15,
+      "precio": 24.99
+  },
+  {
+      "id": "234fwr-234dfg-232dfg-4345-ssfsgfdf",
+      "descripcion": "Jogging estampado",
+      "color": "estampado",
+      "talle": "S",
+      "cantidad": 10,
+      "precio": 39.99
+  }
+]

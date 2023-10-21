@@ -1,0 +1,200 @@
+{
+    "id": 6,
+    "descripcion": "Calza negra",
+    "color": "negro",
+    "talle": "M",
+    "cantidad": 40,
+    "precio": 29.99
+},
+{
+    "id": 7,
+    "descripcion": "Campera roja",
+    "color": "rojo",
+    "talle": "L",
+    "cantidad": 25,
+    "precio": 59.99
+},
+{
+    "id": 8,
+    "descripcion": "Remera blanca",
+    "color": "blanco",
+    "talle": "XL",
+    "cantidad": 30,
+    "precio": 19.99
+},
+{
+    "id": 9,
+    "descripcion": "Short azul",
+    "color": "azul",
+    "talle": "S",
+    "cantidad": 20,
+    "precio": 24.99
+},
+{
+    "id": 10,
+    "descripcion": "Jogging estampado",
+    "color": "estampado",
+    "talle": "M",
+    "cantidad": 12,
+    "precio": 39.99
+},
+{
+    "id": 11,
+    "descripcion": "Calza negra",
+    "color": "negro",
+    "talle": "L",
+    "cantidad": 30,
+    "precio": 29.99
+},
+{
+    "id": 12,
+    "descripcion": "Campera roja",
+    "color": "rojo",
+    "talle": "XL",
+    "cantidad": 18,
+    "precio": 59.99
+},
+{
+    "id": 13,
+    "descripcion": "Remera blanca",
+    "color": "blanco",
+    "talle": "S",
+    "cantidad": 28,
+    "precio": 19.99
+},
+{
+    "id": 14,
+    "descripcion": "Short azul",
+    "color": "azul",
+    "talle": "M",
+    "cantidad": 22,
+    "precio": 24.99
+},
+{
+    "id": 15,
+    "descripcion": "Jogging estampado",
+    "color": "estampado",
+    "talle": "L",
+    "cantidad": 14,
+    "precio": 39.99
+},
+{
+    "id": 16,
+    "descripcion": "Calza negra",
+    "color": "negro",
+    "talle": "XL",
+    "cantidad": 38,
+    "precio": 29.99
+},
+{
+    "id": 17,
+    "descripcion": "Campera roja",
+    "color": "rojo",
+    "talle": "S",
+    "cantidad": 16,
+    "precio": 59.99
+},
+{
+    "id": 18,
+    "descripcion": "Remera blanca",
+    "color": "blanco",
+    "talle": "M",
+    "cantidad": 32,
+    "precio": 19.99
+},
+{
+    "id": 19,
+    "descripcion": "Short azul",
+    "color": "azul",
+    "talle": "L",
+    "cantidad": 24,
+    "precio": 24.99
+},
+{
+    "id": 20,
+    "descripcion": "Jogging estampado",
+    "color": "estampado",
+    "talle": "XL",
+    "cantidad": 8,
+    "precio": 39.99
+},
+{
+    "id": 21,
+    "descripcion": "Calza negra",
+    "color": "negro",
+    "talle": "S",
+    "cantidad": 46,
+    "precio": 29.99
+},
+{
+    "id": 22,
+    "descripcion": "Campera roja",
+    "color": "rojo",
+    "talle": "M",
+    "cantidad": 14,
+    "precio": 59.99
+},
+{
+    "id": 23,
+    "descripcion": "Remera blanca",
+    "color": "blanco",
+    "talle": "L",
+    "cantidad": 40,
+    "precio": 19.99
+},
+{
+    "id": 24,
+    "descripcion": "Short azul",
+    "color": "azul",
+    "talle": "XL",
+    "cantidad": 19,
+    "precio": 24.99
+},
+{
+    "id": 25,
+    "descripcion": "Jogging estampado",
+    "color": "estampado",
+    "talle": "S",
+    "cantidad": 9,
+    "precio": 39.99
+},
+{
+    "id": 26,
+    "descripcion": "Calza negra",
+    "color": "negro",
+    "talle": "M",
+    "cantidad": 36,
+    "precio": 29.99
+},
+{
+    "id": 27,
+    "descripcion": "Campera roja",
+    "color": "rojo",
+    "talle": "L",
+    "cantidad": 22,
+    "precio": 59.99
+},
+{
+    "id": 28,
+    "descripcion": "Remera blanca",
+    "color": "blanco",
+    "talle": "XL",
+    "cantidad": 27,
+    "precio": 19.99
+},
+{
+    "id": 29,
+    "descripcion": "Short azul",
+    "color": "azul",
+    "talle": "S",
+    "cantidad": 17,
+    "precio": 24.99
+},
+{
+    "id": 30,
+    "descripcion": "Jogging estampado",
+    "color": "estampado",
+    "talle": "M",
+    "cantidad": 11,
+    "precio": 39.99
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "username": "Josefina",
+    "email": "jrodriguez@gmail.com",
+    "password": "12312312",
+    "token": "0c8ee8f9-6be8-49f7-988a-3161dbd47b06"
+  },
+  {
+    "username": "Carolina",
+    "email": "caro@yahoo.es",
+    "password": "123123",
+    "token": ""
+  },
+  {
+    "username": "Juan",
+    "email": "juan@juan.juan",
+    "password": "qw45",
+    "token": "e34a620d-1631-497c-8a7b-b7beecd8304f"
+  },
+  {
+    "username": "Postman",
+    "email": "juan@postaman.com",
+    "password": "realpost",
+    "token": "2f565ba4-619b-4838-8381-fdb81cd043f5"
+  },
+  {
+    "username": "Created with token",
+    "email": "john@token.com",
+    "password": "True123123123",
+    "token": ""
+  },
+  {
+    "username": "Created token",
+    "email": "john@token.com",
+    "password": "True123123123",
+    "token": ""
+  },
+  {
+    "username": "Creado con token desde POSTMAN",
+    "email": "jdoe@token.com",
+    "password": "1234",
+    "token": ""
+  },
+  {
+    "username": "Creado con token",
+    "email": "jdoe@token.com",
+    "password": "123",
+    "token": ""
+  },
+  {
+    "username": "Creaado con token",
+    "email": "jdoe@token.com",
+    "password": "123",
+    "token": ""
+  },
+  {
+    "username": "Stock User 1 ",
+    "email": "pruebacreate@gmail.com",
+    "password": "12345",
+    "token": ""
+  }
+]
